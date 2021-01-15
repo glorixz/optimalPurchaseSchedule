@@ -5,3 +5,4 @@ This algorithm is given an array containing the demand for a product, for each d
 The goal is to find the optimal schedule with a purchase amount for each day for the
 product, given that it has cost p per unit, and that there is a storage limit of L.
 At the end of each day the unsold product incurs an additional cost of e per unit.
+There is also a flat cost P applied each time any amount of product is purchased.
