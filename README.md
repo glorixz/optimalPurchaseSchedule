@@ -1,5 +1,5 @@
 # optimalPurchaseSchedule
-An sample solution for a category of recursive memorized problems. 
+An sample solution for a category of recursive memoized problems. 
 
 This algorithm is given an array containing the demand for a product, for each day.
 The goal is to find the optimal schedule with a purchase amount for each day for the
