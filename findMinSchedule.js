@@ -1,7 +1,8 @@
 // This algorithm is given an array containing the demand for a product, for each day.
 // The goal is to find the optimal schedule for purchasing the product, given that it
 // has cost p per unit, and that there is a storage limit of L. At the end of each day
-// the unsold product incurs a cost of e per unit. 
+// the unsold product incurs a cost of e per unit. There is a cost P added each time
+// any amount of product is purchased
 
 // demand for each day, in REVERSE order
 // i.e. last day is demand[0]
